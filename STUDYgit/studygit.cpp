@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int a = 10;
+	int a = 100;
 	cout << "learn git" << endl;
 	return 0;
 }
